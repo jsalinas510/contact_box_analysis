@@ -1,7 +1,7 @@
 # Contact Box Analysis
 This is a dive to find out what are the popular times that potential clients are contacting our martial arts gym services through our website's Contact Box. The purpose of this project is to identify the peak contact times and gaps to minimize the business' response time to a new contact box entry. Additionally, we can identify which class option pairings are most popular.
 
-Dashboard: [Contact Box Analysis](https://public.tableau.com/views/contactbox2/ContactBoxbyWeekDay?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard: [Contact Box Analysis](https://public.tableau.com/views/contactbox2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Peak Contact Time
