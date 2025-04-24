@@ -6,12 +6,12 @@ Dashboard: [Contact Box Analysis](https://public.tableau.com/views/contactbox2/D
 
 ## Peak Contact Time
 ### Average spreadsheet submissions 'Contact Box Entries'
-__Contact Box Entries per week day ~ Total Contact Box Entries__
+__Contact Box Entries per week day__
 1. Monday
 2. Tuesday
 3. Sunday
 
-__Contact Box Entries per hour of the day ~ Total Contact Box Entries__
+__Contact Box Entries per hour of the day__
 1. 4pm
 2. 2pm
 3. 12-1pm
@@ -21,3 +21,9 @@ __Contact Box Entries per hour of the day ~ Total Contact Box Entries__
 1. Brazilian Jiu Jitsu & Mixed Martial Arts (MMA) ~ 87
 2. Mixed Martial Arts & Kickboxing ~ 57
 3. Brazilian Jiu Jitsu & Kickboxing ~ 50
+
+## Keywords Used
+### Top keywords used by contact box entries
+1. _
+2. _
+3. _
